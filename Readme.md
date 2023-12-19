@@ -6,16 +6,15 @@
 
 ## How to run:
     Open Command Prompt
-```bash
-                                    git clone https://github.com/bassammmmm/solving-knapsack-using-genetic-algorithms.git
-                                        cd solving-knapsack-using-genetic-algorithms
+    git clone https://github.com/bassammmmm/solving-knapsack-using-genetic-algorithms.git
+    cd solving-knapsack-using-genetic-algorithms
 
     Create env (Optional but recommended)
-    ```bash
+
     python -m venv env
     
     Activate the virtual environment and install dependencies
-    ```bash
+
     env\Scripts\Activate #For windows
     source env/bin/activate #For linux
 
