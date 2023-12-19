@@ -8,23 +8,23 @@
     Open Command Prompt
 
     ```bash
-    - git clone https://github.com/bassammmmm/solving-knapsack-using-genetic-algorithms.git
-    - cd solving-knapsack-using-genetic-algorithms
+    git clone https://github.com/bassammmmm/solving-knapsack-using-genetic-algorithms.git
+    cd solving-knapsack-using-genetic-algorithms
 
     Create env (Optional but recommended)
     ```bash
-    - python -m venv env
+    python -m venv env
     
     Activate the virtual environment and install dependencies
     ```bash
-    - env\Scripts\Activate #For windows
-    - source env/bin/activate #For linux
+    env\Scripts\Activate #For windows
+    source env/bin/activate #For linux
 
-    - python knapsack.py
+    python knapsack.py
 
 ## How to insert values/weights of the items
-    - Write your values seperated by a space into a the first box
-    - Write your weights seperated by a space into a the second box
-    - Write your knapsack max weight in the third box
+    1) Write your values seperated by a space into a the first box
+    2) Write your weights seperated by a space into a the second box
+    3) Write your knapsack max weight in the third box
 
-    - Then it should shows you the best solution/value for 0-1 and unbounded problem.
+    Then it should shows you the best solution/value for 0-1 and unbounded problem.
