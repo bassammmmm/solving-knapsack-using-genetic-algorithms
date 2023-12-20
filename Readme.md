@@ -25,4 +25,4 @@
     2) Write your weights seperated by a space into a the second box
     3) Write your knapsack max weight in the third box
 
-    Then it should shows you the best solution/value for 0-1 and unbounded problem.
+    Then it should show you the best solution/value for 0-1 and unbounded problem.
